@@ -1,22 +1,29 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/REFERENCE_LIBRARY-LINUX_%26_SECURITY-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="Resources Library"/>
+  <img src="https://img.shields.io/badge/PDF-CHEATSHEETS_%26_NOTES-101010?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF41" alt="PDF resources"/>
+</p>
+
 # Resources Library
 
-Biblioteca personal de consulta con documentos de referencia sobre Linux, Kali Linux y preparación de laboratorios de ciberseguridad.
+Personal reference library with documents covering Linux, Kali Linux and cybersecurity lab preparation.
 
-## Documentos
+## Documents
 
-- `400 comandos Linux.pdf`
-- `Kali-Linux-Cheat-Sheet-1.pdf`
-- `OSCP NOTES.pdf`
-- `linux-commands-cheat-sheet-pdf.pdf`
+| File | Topic |
+|---|---|
+| `400 comandos Linux.pdf` | Linux command reference |
+| `Kali-Linux-Cheat-Sheet-1.pdf` | Kali Linux quick reference |
+| `OSCP NOTES.pdf` | Personal OSCP study notes |
+| `linux-commands-cheat-sheet-pdf.pdf` | Linux command reference |
 
-## Uso
+## How to use
 
-Abre los PDF desde GitHub o descárgalos para consultarlos localmente. Son materiales de referencia; contrasta comandos, opciones y procedimientos con la documentación oficial y con la versión actual de cada herramienta.
+Open the PDFs in GitHub or download them for local reference. Verify commands, options and procedures against the official documentation and the current version of each tool.
 
-## Ámbito
+## Scope
 
-Repositorio de apuntes y consulta. No representa una certificación OSCP ni acredita la realización de un examen.
+This is a collection of study notes and reference material. It does not represent OSCP certification or prove that an exam has been taken.
 
-## Nota sobre derechos
+## Copyright and attribution
 
-Antes de redistribuir o reutilizar los documentos, comprueba sus licencias y condiciones de uso. La presencia de un archivo en este repositorio no implica que su contenido sea de libre distribución.
+Check the licence and usage terms of each document before redistribution or reuse. The presence of a file in this repository does not mean its contents are freely redistributable.
